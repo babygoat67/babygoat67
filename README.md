@@ -7,9 +7,7 @@
 ---
 
 ## 🧠 About Me
-I'm a passionate Computer Science student majoring in **Artificial Intelligence**, with interests in **machine learning**, **deep learning**, and **data science*.  
-
-💡 *"I believe that practical innovation starts with curiosity and teamwork."*
+I'm a passionate Computer Science student majoring in **Artificial Intelligence**, with interests in **machine learning**, **deep learning**, and **data science**.  
 
 ---
 
@@ -28,9 +26,9 @@ I'm a passionate Computer Science student majoring in **Artificial Intelligence*
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [Emotion Detection](https://github.com/babygoat67/emotion-detection) | CNN model to classify happy/sad facial expressions | TensorFlow, OpenCV |
-| [Lacial](https://github.com/yourusername/lacial) | Blockchain Charity Website — Varsity Hackathon Finalist (2024) | React, Firebase, TensorFlow.js |
-| [Seismic Hazard Detection](https://github.com/yourusername/seismic-hazard) | ML pipeline for seismic hazard classification | Python, TensorFlow, Scikit-learn |
+| [Images Classification](https://github.com/babygoat67/EmotionClassification) | CNN model to classify happy/sad facial expressions | TensorFlow, OpenCV |
+| [Lacial](https://github.com/TehCs-Prime/VHack2025-BlockchainCharity) | Blockchain Charity Website — Varsity Hackathon Finalist (2024) | React, Firebase, TensorFlow.js |
+| [Seismic Hazard Detection](https://github.com/b0929en/Seismic-Hazard-Prediction) | Seismic hazard classification | Python, TensorFlow, Scikit-learn |
 
 ---
 

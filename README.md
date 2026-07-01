@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Choo Yit Shern
+#  Hi, I'm Choo Yit Shern
 
-🎓 Bachelor of Computer Science (Intelligent Computing) @ Universiti Sains Malaysia  
-📍 Alor Setar, Kedah  
-📫 chooyitshern0607@gmail.com | 📱 017-434 7288  
-
+ Bachelor of Computer Science (Intelligent Computing) @ Universiti Sains Malaysia  
 ---
 
-## 🧠 About Me
+##  About Me
 I'm a passionate Computer Science student majoring in **Artificial Intelligence**, with interests in **machine learning**, **deep learning**, and **data science**.  
 
 ---
 
-## 🧩 Technical Skills
+##  Technical Skills
 
 | Category | Skills |
 |-----------|---------|
@@ -22,7 +19,7 @@ I'm a passionate Computer Science student majoring in **Artificial Intelligence*
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
@@ -33,7 +30,7 @@ I'm a passionate Computer Science student majoring in **Artificial Intelligence*
 ---
 
 
-## ⚙️ Tools & Stats
+##  Tools & Stats
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -46,5 +43,5 @@ I'm a passionate Computer Science student majoring in **Artificial Intelligence*
 
 
 
-⭐️ *“Thanks for visiting my profile!”*  
-📫 **Choo Yit Shern** — [GitHub](https://github.com/babygoat67)
+ *“Thanks for visiting my profile!”*  
+ **Choo Yit Shern** — [GitHub](https://github.com/babygoat67)
